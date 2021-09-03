@@ -1,2 +1,3 @@
 # docker-layer
-dockerhubでつかわれてるよ。
+
+ghcr.ioにbuildしてpushします。
