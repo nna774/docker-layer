@@ -1,3 +1,3 @@
 FROM hashicorp/terraform:latest
 
-RUN apk add --update-cache ruby
+RUN apk add --no-cache ruby
